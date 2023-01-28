@@ -1,0 +1,16 @@
+Lead id,Lead Source,New,Engaged,Converted / D
+1,LinkedIn,new,E1,C1
+2,LinkedIn,new,E0,C0
+3,LinkedIn,prev,E1,C1
+4,ZoomInfo,new,E1,C0
+5,ZoomInfo,prev,E1,C1
+6,ZoomInfo,new,E0,C0
+7,Field Events,prev,E1,C1
+8,Field Events,new,E1,C1
+9,Field Events,prev,E0,C0
+10,Direct SDR,new,E1,C1
+11,Direct SDR,prev,E1,C1
+12,Direct SDR,new,E0,C0
+13,Referal,new,E1,C0
+14,Referal,new,E1,C1
+15,Referal,new,E0,C0
