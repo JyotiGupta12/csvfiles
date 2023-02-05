@@ -1,0 +1,305 @@
+From,TO,Value
+Legacy dataset,SMB,6000
+Legacy dataset,Mid Market,3900
+Legacy dataset,Enterprise,100
+SMB,Misc Services,3000
+SMB,Franchisees,3000
+Mid Market,Privacy,3900
+Enterprise,Cloud Infra Tech,100
+Misc Services,Qualified,1000
+Misc Services,Discarded,2000
+Franchisees,Qualified,1000
+Franchisees,Discarded,2000
+Privacy,Qualified,3800
+Privacy,Discarded,100
+Cloud Infra Tech,Qualified,100
+Cloud Infra Tech,Discarded,0
+Qualified,SMB Campaigns,1000
+Qualified,SMB Campaigns,1000
+Qualified,Mid Market Campaigns,2000
+SMB Campaigns,New Lead,50
+SMB Campaigns,In Progress Lead,300
+SMB Campaigns,Sales Qualified,50
+SMB Campaigns,for Nurture,300
+SMB Campaigns,Discarded Lead,300
+SMB Campaigns,New Lead,0
+SMB Campaigns,In Progress Lead,0
+SMB Campaigns,Sales Qualified,100
+SMB Campaigns,for Nurture,0
+SMB Campaigns,Discarded Lead,900
+Mid Market Campaigns,New Lead,200
+Mid Market Campaigns,In Progress Lead,1000
+Mid Market Campaigns,Sales Qualified,500
+Mid Market Campaigns,for Nurture,0
+Mid Market Campaigns,Discarded Lead,300
+Sales Qualified,New Oppotunity,10
+Sales Qualified,In Progress Opportunity,20
+Sales Qualified,Won,10
+Sales Qualified,Lost,10
+Sales Qualified,New Opportunity,10
+Sales Qualified,In Progress Opportunity,60
+Sales Qualified,Won,20
+Sales Qualified,Lost,10
+Sales Qualified,New Oppotunity,300
+Sales Qualified,In Progress Opportunity,200
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Won,Invoiced,1
+Won,Yet to Start,9
+Won,Invoiced,10
+Won,Yet to Start,10
+Won,Invoiced,0
+Won,Yet to Start,0
+Zoominfo,SMB,30000
+Zoominfo,Mid Market,0
+Zoominfo,Enterprise,0
+SMB,Misc Services,20000
+SMB,Franchisees,10000
+Mid Market,Privacy,0
+Enterprise,Cloud Infra Tech,0
+Misc Services,Qualified,15000
+Misc Services,Discarded,5000
+Franchisees,Qualified,2000
+Franchisees,Discarded,8000
+Qualified,SMB Campaigns,3000
+Qualified,SMB Campaigns,2000
+SMB Campaigns,New Lead,200
+SMB Campaigns,In Progress Lead,1000
+SMB Campaigns,Sales Qualified,1000
+SMB Campaigns,for Nurture,500
+SMB Campaigns,Discarded Lead,300
+SMB Campaigns,New Lead,200
+SMB Campaigns,In Progress Lead,1000
+SMB Campaigns,Sales Qualified,350
+SMB Campaigns,for Nurture,150
+SMB Campaigns,Discarded Lead,300
+Sales Qualified,New Opportunity,300
+Sales Qualified,In Progress Opportunity,200
+Sales Qualified,Won,300
+Sales Qualified,Lost,200
+Sales Qualified,New Oppotunity,350
+Sales Qualified,In Progress Opportunity,0
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Won,Invoiced,200
+Won,Yet to Start,100
+SDR/Direct,SMB,0
+SDR/Direct,Mid Market,0
+SDR/Direct,Enterprise,20000
+Enterprise,Payment Tech,4000
+Enterprise,Cloud Infra Tech,4000
+Enterprise,Real-Estate Tech,4000
+Enterprise,Privacy,4000
+Enterprise,Digital Security,4000
+Payment Tech,Qualified,1000
+Payment Tech,Discarded,3000
+Cloud Infra Tech,Qualified,2500
+Cloud Infra Tech,Discarded,1500
+Real-Estate Tech,Qualified,1000
+Real-Estate Tech,Discarded,3000
+Privacy,Qualified,3000
+Privacy,Discarded,1000
+Digital Security,Qualified,2700
+Digital Security,Discarded,1300
+Qualified,Enterprise Campaigns,2000
+Qualified,Enterprise Campaigns,2000
+Qualified,Enterprise Campaigns,1000
+Qualified,Enterprise Campaigns,2000
+Qualified,Enterprise Campaigns,2000
+Enterprise Campaigns,New Lead,200
+Enterprise Campaigns,In Progress Lead,1000
+Enterprise Campaigns,Sales Qualified,350
+Enterprise Campaigns,for Nurture,250
+Enterprise Campaigns,Discarded Lead,200
+Enterprise Campaigns,New Lead,100
+Enterprise Campaigns,In Progress Lead,1100
+Enterprise Campaigns,Sales Qualified,350
+Enterprise Campaigns,for Nurture,250
+Enterprise Campaigns,Discarded Lead,200
+Enterprise Campaigns,New Lead,100
+Enterprise Campaigns,In Progress Lead,300
+Enterprise Campaigns,Sales Qualified,100
+Enterprise Campaigns,for Nurture,300
+Enterprise Campaigns,Discarded Lead,200
+Enterprise Campaigns,New Lead,500
+Enterprise Campaigns,In Progress Lead,1000
+Enterprise Campaigns,Sales Qualified,100
+Enterprise Campaigns,for Nurture,0
+Enterprise Campaigns,Discarded Lead,400
+Enterprise Campaigns,New Lead,500
+Enterprise Campaigns,In Progress Lead,700
+Enterprise Campaigns,Sales Qualified,100
+Enterprise Campaigns,for Nurture,300
+Enterprise Campaigns,Discarded Lead,400
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,350
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Sales Qualified,New Opportunity,0
+Sales Qualified,In Progress Opportunity,350
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,0
+Sales Qualified,Won,10
+Sales Qualified,Lost,90
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,20
+Sales Qualified,Won,40
+Sales Qualified,Lost,40
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,40
+Sales Qualified,Won,20
+Sales Qualified,Lost,40
+Won,Invoiced,0
+Won,Yet to Start,0
+Won,Invoiced,0
+Won,Yet to Start,0
+Won,Invoiced,10
+Won,Yet to Start,0
+Won,Invoiced,0
+Won,Yet to Start,40
+Won,Invoiced,6
+Won,Yet to Start,14
+Field Event,SMB,0
+Field Event,Mid Market,0
+Field Event,Enterprise,5000
+Enterprise,Cloud Infra Tech,5000
+Cloud Infra Tech,Qualified,1000
+Cloud Infra Tech,Discarded,4000
+Qualified,Enterprise Campaigns,1000
+Enterprise Campaigns,New Lead,100
+Enterprise Campaigns,In Progress Lead,300
+Enterprise Campaigns,Sales Qualified,200
+Enterprise Campaigns,for Nurture,0
+Enterprise Campaigns,Discarded Lead,400
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,200
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Won,Invoiced,0
+Won,Yet to Start,0
+Crunchbase,SMB,14000
+Crunchbase,Mid Market,6000
+Crunchbase,Enterprise,0
+SMB,Misc Services,6000
+SMB,Franchisees,8000
+Mid Market,Digital Security,6000
+Misc Services,Qualified,4000
+Misc Services,Discarded,2000
+Franchisees,Qualified,7000
+Franchisees,Discarded,1000
+Digital Security,Qualified,5000
+Digital Security,Discarded,1000
+Qualified,SMB Campaigns,1000
+Qualified,SMB Campaigns,2000
+Qualified,Mid Market Campaigns,5000
+SMB Campaigns,New Lead,50
+SMB Campaigns,In Progress Lead,0
+SMB Campaigns,Sales Qualified,150
+SMB Campaigns,for Nurture,0
+SMB Campaigns,Discarded Lead,800
+SMB Campaigns,New Lead,500
+SMB Campaigns,In Progress Lead,700
+SMB Campaigns,Sales Qualified,100
+SMB Campaigns,for Nurture,300
+SMB Campaigns,Discarded Lead,400
+Mid Market Campaigns,New Lead,500
+Mid Market Campaigns,In Progress Lead,700
+Mid Market Campaigns,Sales Qualified,1500
+Mid Market Campaigns,for Nurture,1300
+Mid Market Campaigns,Discarded Lead,1000
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,150
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Sales Qualified,New Opportunity,75
+Sales Qualified,In Progress Opportunity,75
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,1000
+Sales Qualified,Won,400
+Sales Qualified,Lost,100
+Won,Invoiced,0
+Won,Yet to Start,0
+Won,Invoiced,0
+Won,Yet to Start,0
+Won,Invoiced,400
+Won,Yet to Start,0
+Partner,SMB,0
+Partner,Mid Market,5000
+Partner,Enterprise,0
+Enterprise,Privacy,5000
+Privacy,Qualified,5000
+Privacy,Discarded,0
+Qualified,Mid Market Campaigns,3000
+Mid Market Campaigns,New Lead,300
+Mid Market Campaigns,In Progress Lead,667
+Mid Market Campaigns,Sales Qualified,533
+Mid Market Campaigns,for Nurture,500
+Mid Market Campaigns,Discarded Lead,1000
+Sales Qualified,New Oppotunity,0
+Sales Qualified,In Progress Opportunity,133
+Sales Qualified,Won,300
+Sales Qualified,Lost,100
+Won,Invoiced,0
+Won,Yet to Start,300
+Direct in Opportunity,SMB,0
+Direct in Opportunity,Mid Market,500
+Direct in Opportunity,Enterprise,500
+Enterprise,Payment Tech,500
+Mid Market,Payment Tech,250
+Mid Market,Cloud Infra Tech,100
+Mid Market,Real-Estate Tech,150
+Payment Tech,New Oppotunity,0
+Payment Tech,In Progress Opportunity,133
+Payment Tech,Won,67
+Payment Tech,Lost,50
+Payment Tech,New Opportunity,200
+Payment Tech,In Progress Opportunity,177
+Payment Tech,Won,73
+Payment Tech,Lost,50
+Cloud Infra Tech,New Oppotunity,0
+Cloud Infra Tech,In Progress Opportunity,77
+Cloud Infra Tech,Won,23
+Cloud Infra Tech,Lost,0
+Real-Estate Tech,New Oppotunity,0
+Real-Estate Tech,In Progress Opportunity,77
+Real-Estate Tech,Won,23
+Real-Estate Tech,Lost,50
+Won,Invoiced,60
+Won,Yet to Start,7
+Won,Invoiced,40
+Won,Yet to Start,33
+Won,Invoiced,0
+Won,Yet to Start,0
+Won,Invoiced,23
+Won,Yet to Start,0
+Direct in Lead,SMB,0
+Direct in Lead,Mid Market,8000
+Direct in Lead,Enterprise,1000
+Enterprise,Privacy,3000
+Enterprise,Payment Tech,5000
+Mid Market,Digital Security,1000
+Privacy,New Lead,200
+Privacy,In Progress Lead,1000
+Privacy,Sales Qualified,500
+Privacy,for Nurture,300
+Privacy,Discarded Lead,1000
+Payment Tech,New Lead,2000
+Payment Tech,In Progress Lead,1000
+Payment Tech,Sales Qualified,500
+Payment Tech,for Nurture,300
+Payment Tech,Discarded Lead,1200
+Digital Security,New Lead,1000
+Digital Security,In Progress Lead,0
+Digital Security,Sales Qualified,0
+Digital Security,for Nurture,0
+Digital Security,Discarded Lead,0
+Sales Qualified,New Oppotunity,100
+Sales Qualified,In Progress Opportunity,277
+Sales Qualified,Won,73
+Sales Qualified,Lost,50
+Won,Yet to Start,53
+Won,Invoiced,20
