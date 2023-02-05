@@ -77,7 +77,7 @@ Sales Qualified,New Opportunity,300
 Sales Qualified,In Progress Opportunity,200
 Sales Qualified,Won,300
 Sales Qualified,Lost,200
-Sales Qualified,New Oppotunity,350
+Sales Qualified,New Opportunity,350
 Sales Qualified,In Progress Opportunity,0
 Sales Qualified,Won,0
 Sales Qualified,Lost,0
@@ -131,7 +131,7 @@ Enterprise Campaigns,In Progress Lead,700
 Enterprise Campaigns,Sales Qualified,100
 Enterprise Campaigns,for Nurture,300
 Enterprise Campaigns,Discarded Lead,400
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,350
 Sales Qualified,Won,0
 Sales Qualified,Lost,0
@@ -139,15 +139,15 @@ Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,350
 Sales Qualified,Won,0
 Sales Qualified,Lost,0
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,0
 Sales Qualified,Won,10
 Sales Qualified,Lost,90
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,20
 Sales Qualified,Won,40
 Sales Qualified,Lost,40
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,40
 Sales Qualified,Won,20
 Sales Qualified,Lost,40
@@ -173,7 +173,7 @@ Enterprise Campaigns,In Progress Lead,300
 Enterprise Campaigns,Sales Qualified,200
 Enterprise Campaigns,for Nurture,0
 Enterprise Campaigns,Discarded Lead,400
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,200
 Sales Qualified,Won,0
 Sales Qualified,Lost,0
@@ -209,7 +209,7 @@ Mid Market Campaigns,In Progress Lead,700
 Mid Market Campaigns,Sales Qualified,1500
 Mid Market Campaigns,for Nurture,1300
 Mid Market Campaigns,Discarded Lead,1000
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,150
 Sales Qualified,Won,0
 Sales Qualified,Lost,0
@@ -217,7 +217,7 @@ Sales Qualified,New Opportunity,75
 Sales Qualified,In Progress Opportunity,75
 Sales Qualified,Won,0
 Sales Qualified,Lost,0
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,1000
 Sales Qualified,Won,400
 Sales Qualified,Lost,100
@@ -239,7 +239,7 @@ Mid Market Campaigns,In Progress Lead,667
 Mid Market Campaigns,Sales Qualified,533
 Mid Market Campaigns,for Nurture,500
 Mid Market Campaigns,Discarded Lead,1000
-Sales Qualified,New Oppotunity,0
+Sales Qualified,New Opportunity,0
 Sales Qualified,In Progress Opportunity,133
 Sales Qualified,Won,300
 Sales Qualified,Lost,100
@@ -252,7 +252,7 @@ Enterprise,Payment Tech,500
 Mid Market,Payment Tech,250
 Mid Market,Cloud Infra Tech,100
 Mid Market,Real-Estate Tech,150
-Payment Tech,New Oppotunity,0
+Payment Tech,New Opportunity,0
 Payment Tech,In Progress Opportunity,133
 Payment Tech,Won,67
 Payment Tech,Lost,50
@@ -260,11 +260,11 @@ Payment Tech,New Opportunity,200
 Payment Tech,In Progress Opportunity,177
 Payment Tech,Won,73
 Payment Tech,Lost,50
-Cloud Infra Tech,New Oppotunity,0
+Cloud Infra Tech,New Opportunity,0
 Cloud Infra Tech,In Progress Opportunity,77
 Cloud Infra Tech,Won,23
 Cloud Infra Tech,Lost,0
-Real-Estate Tech,New Oppotunity,0
+Real-Estate Tech,New Opportunity,0
 Real-Estate Tech,In Progress Opportunity,77
 Real-Estate Tech,Won,23
 Real-Estate Tech,Lost,50
@@ -297,7 +297,7 @@ Digital Security,In Progress Lead,0
 Digital Security,Sales Qualified,0
 Digital Security,for Nurture,0
 Digital Security,Discarded Lead,0
-Sales Qualified,New Oppotunity,100
+Sales Qualified,New Opportunity,100
 Sales Qualified,In Progress Opportunity,277
 Sales Qualified,Won,73
 Sales Qualified,Lost,50
