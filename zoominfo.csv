@@ -1,0 +1,34 @@
+From ,To,Value
+Zoominfo,SMB,30000
+Zoominfo,Mid Market,0
+Zoominfo,Enterprise,0
+SMB,Misc Services,20000
+SMB,Franchisees,10000
+Mid Market,Privacy,0
+Enterprise,Cloud Infra Tech,0
+Misc Services,Qualified,15000
+Misc Services,Discarded,5000
+Franchisees,Qualified,2000
+Franchisees,Discarded,8000
+Qualified,SMB Campaigns,3000
+Qualified,SMB Campaigns,2000
+SMB Campaigns,New Lead,200
+SMB Campaigns,In Progress Lead,1000
+SMB Campaigns,Sales Qualified,1000
+SMB Campaigns,for Nurture,500
+SMB Campaigns,Discarded Lead,300
+SMB Campaigns,New Lead,200
+SMB Campaigns,In Progress Lead,1000
+SMB Campaigns,Sales Qualified,350
+SMB Campaigns,for Nurture,150
+SMB Campaigns,Discarded Lead,300
+Sales Qualified,New Opportunity,300
+Sales Qualified,In Progress Opportunity,200
+Sales Qualified,Won,300
+Sales Qualified,Lost,200
+Sales Qualified,New Oppotunity,350
+Sales Qualified,In Progress Opportunity,0
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Won,Invoiced,200
+Won,Yet to Start,100
