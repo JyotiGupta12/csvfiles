@@ -1,0 +1,28 @@
+From ,to ,value
+Direct in Lead,SMB,0
+Direct in Lead,Mid Market,8000
+Direct in Lead,Enterprise,1000
+Mid Market,Privacy,3000
+Mid Market,Payment Tech,5000
+Enterprise,Digital Security,1000
+Privacy,New Lead,200
+Privacy,In Progress Lead,1000
+Privacy,Sales Qualified,500
+Privacy,for Nurture,300
+Privacy,Discarded Lead,1000
+Payment Tech,New Lead,2000
+Payment Tech,In Progress Lead,1000
+Payment Tech,Sales Qualified,500
+Payment Tech,for Nurture,300
+Payment Tech,Discarded Lead,1200
+Digital Security,New Lead,1000
+Digital Security,In Progress Lead,0
+Digital Security,Sales Qualified,0
+Digital Security,for Nurture,0
+Digital Security,Discarded Lead,0
+Sales Qualified,New Opportunity,100
+Sales Qualified,In Progress Opportunity,277
+Sales Qualified,Won,73
+Sales Qualified,Lost,50
+Won,Yet to Start,53
+Won,Invoiced,20
