@@ -1,4 +1,4 @@
-From,TO,Value
+from,to,value
 Legacy dataset,SMB,6000
 Legacy dataset,Mid Market,3900
 Legacy dataset,Enterprise,100
