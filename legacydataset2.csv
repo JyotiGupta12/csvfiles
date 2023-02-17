@@ -1,0 +1,52 @@
+from,to,value
+Legacy dataset,SMB,6000
+Legacy dataset,Mid Market,3900
+Legacy dataset,Enterprise,100
+SMB,Misc Services,3000
+SMB,Franchisees,3000
+Mid Market,Privacy,3900
+Enterprise,Cloud Infra Tech,100
+Misc Services,Qualified,1000
+Misc Services,Discarded,2000
+Franchisees,Qualified,1000
+Franchisees,Discarded,2000
+Privacy,Qualified,3800
+Privacy,Discarded,100
+Cloud Infra Tech,Qualified,100
+Cloud Infra Tech,Discarded,0
+Qualified,SMB Campaigns,1000
+Qualified,SMB Campaigns,1000
+Qualified,Mid Market Campaigns,2000
+SMB Campaigns,New Lead,50
+SMB Campaigns,In Progress Lead,300
+SMB Campaigns,Sales Qualified,50
+SMB Campaigns,for Nurture,300
+SMB Campaigns,Discarded Lead,300
+SMB Campaigns,New Lead,0
+SMB Campaigns,In Progress Lead,0
+SMB Campaigns,Sales Qualified,100
+SMB Campaigns,for Nurture,0
+SMB Campaigns,Discarded Lead,900
+Mid Market Campaigns,New Lead,200
+Mid Market Campaigns,In Progress Lead,1000
+Mid Market Campaigns,Sales Qualified,500
+Mid Market Campaigns,for Nurture,0
+Mid Market Campaigns,Discarded Lead,300
+Sales Qualified,New Oppotunity,10
+Sales Qualified,In Progress Opportunity,20
+Sales Qualified,Won,10
+Sales Qualified,Lost,10
+Sales Qualified,New Oppotunity,10
+Sales Qualified,In Progress Opportunity,60
+Sales Qualified,Won,20
+Sales Qualified,Lost,10
+Sales Qualified,New Oppotunity,300
+Sales Qualified,In Progress Opportunity,200
+Sales Qualified,Won,0
+Sales Qualified,Lost,0
+Won,Invoiced,1
+Won,Yet to Start,9
+Won,Invoiced,10
+Won,Yet to Start,10
+Won,Invoiced,0
+Won,Yet to Start,0
